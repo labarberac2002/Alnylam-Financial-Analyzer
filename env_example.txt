@@ -1,0 +1,3 @@
+# SEC-API Configuration
+# Get your API key from https://sec-api.io/
+SEC_API_KEY=your_sec_api_key_here
